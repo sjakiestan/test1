@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f155f4af
+license: CC-BY-NC-SA-4.0
+name: test1
 type: industry
+url: https://github.com/sjakiestan/test1
 version: 6
