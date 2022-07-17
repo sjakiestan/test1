@@ -1,0 +1,28 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- UrTa
+colour: 1
+fundCostMultiplier: 218
+id: 1
+layout:
+- - - 0
+name: uranium mine
+placement: anywhere
+probabilityInGame: 1
+probabilityMapGen: 1
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/uranium-mine/1.png
+      left: -31
+      top: 0
+type: primary
