@@ -1,0 +1,17 @@
+abbreviation: UT
+available: false
+classes: 800
+colour: 87
+id: 0
+label: UrTa
+longName: uranium tank
+name: Uranium tank
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 9869
+sprite:
+  filename: cargoes/uranium-tank.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 13
